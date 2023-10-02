@@ -1,4 +1,4 @@
-### 👨‍💻 About me: 
+### 👨‍💻 About Me: 
 I am a Full Stack Developer specializing in modern JavaScript technologies. I have extensive experience working with React, Angular, Node, and TypeScript, and I am always eager to learn about the latest web technologies and tools.
 
 🛠️ Currently, I work for a fintech firm where I am involved in building a new application from the ground up using React & Angular.js in the frontend and Node.js in the backend. This experience has allowed me to work with cutting-edge technologies such as AWS and Docker, and to gain a deeper understanding of RESTful APIs and SQL databases.
