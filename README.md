@@ -1,16 +1,13 @@
 ### 👨‍💻 About Me: 
-I am a Full Stack Developer specializing in modern JavaScript technologies. I have extensive experience working with React, Angular, Node, and TypeScript, and I am always eager to learn about the latest web technologies and tools.
 
-🛠️ Currently, I work for a fintech firm where I am involved in building a new application from the ground up using React & Angular.js in the frontend and Node.js in the backend. This experience has allowed me to work with cutting-edge technologies such as AWS and Docker, and to gain a deeper understanding of RESTful APIs and SQL databases.
+Senior Software Engineer with a strong background in designing and building scalable, high-performance applications. Experienced in modern web technologies, backend architecture, and cloud-native solutions, delivering robust and secure systems across web and mobile platforms.
 
-🚀 My passion for software development stems from my desire for continuous improvement and my drive to contribute to something bigger than myself. When I am not working, I enjoy playing tennis and football, which helps me stay active and maintain a healthy work-life balance.
+💻 Programming Languages: JavaScript, TypeScript, Python
 
-💻 Programming Languages: JavaScript, TypeScript.
+🔧 Technologies: Django, Django REST Framework, Node.js, Express, React, Angular, Redux, Next.js, HTML, CSS RESTful APIs, GraphQL
 
-🔧 Technologies & Tools: React, Redux, Angular.js, Node.js, Express.js, PostgreSQL, Jenkins, Babel, OAuth2, JWT, RESTful APIs, TDD, Webpack, MongoDB, MySQL, DevOps, JIRA, AI Coding Tools (ChatGPT, GitHub Co-Pilot)
+☁️ Cloud & Database: PostgreSQL, MySQL, MongoDB, Redis, AWS (EC2, S3, RDS, Lambda), Docker, Jenkins, CI/CD
 
-☁️ Cloud: CI/CD, Git, AWS(EC2, S3), Docker.
+📊 Testing & Performance: Jest, Mocha, Jasmine, TDD, Web Performance Optimization
 
-📊 Methodologies: SCRUM, Agile, TDD.
-
-🌐 Interests: Web Performance, Software Architecture, Cloud, Fullstack Development.
+🌐 Architecture & Best Practices: Microservices Architecture, Scalable System Design, Responsive Web Design
